@@ -37,3 +37,13 @@ Due: 7/16/19
 **From the perspective of a DHS analyst** the most significant findings in this report were related to the agency's non-compliance with it's own TEDS guidelines and the Flores Agreement. However, the departmental response to these findings provided some good news that I would include in the visualizations for this report to further characterize the situation at the southern border. The story here is more complex than just the increased human traffic and the inability of DHS to adequately address the increased migrant flow. His response speaks to the efforts agents have undertaken outside of enforcement to address the needs of immigrants at the border. I felt like that was an important part of the internal narrative, since I imagine the audience of this report to be primarily internal to DHS.
 
 Source for both Crisis at the Border visualizations: "Management Alert - DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley - Redacted" Office of the Inspector General, July 2, 2019.[OIG Audit](https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
+
+## Recreation of Slower Gains After No Child Left Behind Chart ##
+
+<iframe title="Impact of No Child Left Behind" aria-label="Interactive line chart" id="datawrapper-chart-cPjAy" src="//datawrapper.dwcdn.net/cPjAy/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="214"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
+
+Source: "Slower Gains After No Child Left Behind", National Center for Education Statistics, [NY Times Archive](https://archive.nytimes.com/www.nytimes.com/imagepages/2009/10/14/education/14math-graphic.html?action=click&contentCollection=Education&module=RelatedCoverage&pgtype=article&region=Marginalia)
+
+**Thoughts on this revised chart:**
+
+When I first viewed this graphic I really liked the clear simplicity of it when it was all separated out. However as I continued parsing the information I found myself trying to compare the different data points, and wishing they were on the same graph. When I laid the Fourth Grade data out on one chart I really liked how the clarity remained, which I liked from the original. This was particularly evident once I customized the colors to emphasize the two categories related to students of color.
