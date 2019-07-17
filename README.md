@@ -19,7 +19,7 @@ Due: 7/9/19
 
 <iframe title="Corbyn Pulls Labour Left" aria-label="Interactive line chart" id="datawrapper-chart-x0Dhf" src="//datawrapper.dwcdn.net/x0Dhf/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
 
-Source: “The Metamorphosis.” The Economist, August 13, 2016. https://www.economist.com/britain/2016/08/13/the-metamorphosis
+Source: “The Metamorphosis.” The Economist, August 13, 2016. (https://www.economist.com/britain/2016/08/13/the-metamorphosis)
 
 ## Crisis at the Border visualizations ##
 Due: 7/16/19
@@ -36,4 +36,4 @@ From the perspective of a data journalist, the OIG findings were the most striki
 
 From the perspective of a DHS analyst, the most significant findings in this report were related to the agency's non-compliance with it's own TEDS guidelines and the Flores Agreement. However, the departmental response to these findings provided some good news that I would include in the visualizations for this report to further characterize the situation at the southern border. The story here is more complex than just the increased human traffic and the inability of DHS to adequately address the increased migrant flow. His response speaks to the efforts agents have undertaken outside of enforcement to address the needs of immigrants at the border. I felt like that was an important part of the internal narrative, since I imagine the audience of this report to be primarily internal to DHS.
 
-Source for both Crisis at the Border visualizations: "Management Alert - DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley - Redacted" Office of the Inspector General, July 2, 2019. https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf
+Source for both Crisis at the Border visualizations: "Management Alert - DHS Needs to Address Dangerous Overcrowding and Prolonged Detention of Children and Adults in the Rio Grande Valley - Redacted" Office of the Inspector General, July 2, 2019. (https://www.oig.dhs.gov/sites/default/files/assets/Mga/2019/oig-19-51-jul19.pdf)
