@@ -1,4 +1,4 @@
-Economist Labour Party-Facebook Visualization Critique 
+# Economist Labour Party-Facebook Visualization Critique #
 due: 7/11/19
 
 The original visualization for this data was a bit hard to understand due to the colors chosen and the truncated bar for the largest data point. Feel free to compare my redo with the source from [the Economist](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
