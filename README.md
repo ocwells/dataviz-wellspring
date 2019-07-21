@@ -13,6 +13,8 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 > [OECD Government Debt Visualization Part 2: Beeswarm](/190723assignment2.md)
 
+> [OECD Government Debt Visualization Part 3: Circle Packing](/190723assignment3.md)
+
 > [Crisis at the Border Visualizations](/190716assignment.md)
 
 > [Labour Leans Left Revisualization](/190709assignment.md)
