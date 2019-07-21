@@ -9,9 +9,9 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 # Online Portfolio
 
-## [OECD Government Debt Visualization](/190723assignment) ##
+## [OECD Government Debt Visualization](/190723assignment.md) ##
 
-## [Labour Leans Left Revisualization](https://ocwells.github.io/dataviz-wellspring/readme.md/190709assignment) ##
+## [Labour Leans Left Revisualization](/190709assignment.md) ##
 Due: 7/9/19
 
 The original visualization for this data was a bit hard to understand due to the colors chosen and the truncated bar for the largest data point. Feel free to compare my redo with the source from [the Economist](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
