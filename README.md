@@ -9,10 +9,10 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 # Online Portfolio
 
-## [OECD Government Debt Visualization](/190723assignment.md) ##
+> [OECD Government Debt Visualization](/190723assignment.md)
 
-## [Crisis at the Border Visualizations](/190716assignment.md) ##
+> [Crisis at the Border Visualizations](/190716assignment.md)
 
-## [Labour Leans Left Revisualization](/190709assignment.md) ##
+> [Labour Leans Left Revisualization](/190709assignment.md)
 
-## [Recreation of Slower Gains After No Child Left Behind Chart](190719assignment2.md) ##
+> [Recreation of Slower Gains After No Child Left Behind Chart](190719assignment2.md)
