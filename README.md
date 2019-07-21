@@ -1,10 +1,10 @@
-## Where Data gets a Makeover ##
+# Where Data gets a Makeover #
 
-# About the Author
+## About the Author ##
 
 I'm Olivia, an MPM student at Carnegie Mellon University's Heinz College in my second semester; my pronouns are her/she. I work here too, so I never have any trouble getting to class on time. :) I am looking forward to working with numbers in a more creative way, since I work with spreadsheets all day and very rarely get to do anything more creative with the data. After graduation, I hope to use my new data visualization skills in my current role.
 
-# What I Hope to Learn
+## What I Hope to Learn ##
 In this course, I expect to learn how to visualize data, which is something I have done only in fits and starts to date. I look forward to learning more about how to produce really impactful visualizations.
 
 # Online Portfolio
