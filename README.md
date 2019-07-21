@@ -1,17 +1,15 @@
-# Data Viz Wellspring - Where Data gets a Makeover
+# [Data Viz Wellspring](https://ocwells.github.io/datavizstuffv2/) - Where Data gets a Makeover
 
-[Github page location](https://ocwells.github.io/datavizstuffv2/) 
+# About the Author
 
-# About Me
-Hi everyone,
-I'm Olivia, an MPM student in my second semester; my pronouns are her/she. I work at Carnegie Mellon for the Heinz College, so I never have any trouble getting to class on time. :) I am looking forward to working with numbers in a more creative way, since I work with spreadsheets all day and very rarely get to do anything more creative with the data. After graduation, I hope to use my new data visualization skills in my current role.
+I'm Olivia, an MPM student at Carnegie Mellon University's Heinz College in my second semester; my pronouns are her/she. I work here too, so I never have any trouble getting to class on time. :) I am looking forward to working with numbers in a more creative way, since I work with spreadsheets all day and very rarely get to do anything more creative with the data. After graduation, I hope to use my new data visualization skills in my current role.
 
 # What I Hope to Learn
 In this course, I expect to learn how to visualize data, which is something I have done only in fits and starts to date. I look forward to learning more about how to produce really impactful visualizations.
 
-# Portfolio
+# Online Portfolio
 
-## Labour Leans Left visualization ##
+## Labour Leans Left Revisualization ##
 Due: 7/9/19
 
 The original visualization for this data was a bit hard to understand due to the colors chosen and the truncated bar for the largest data point. Feel free to compare my redo with the source from the Economist [below](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
