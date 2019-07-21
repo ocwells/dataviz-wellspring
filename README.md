@@ -1,4 +1,4 @@
-# [Data Viz Wellspring](https://ocwells.github.io/dataviz-wellspring/) - Where Data gets a Makeover
+## Where Data gets a Makeover ##
 
 # About the Author
 
