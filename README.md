@@ -9,7 +9,7 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 # Online Portfolio
 
-## Labour Leans Left Revisualization ##
+## [Labour Leans Left Revisualization](https://ocwells.github.io/dataviz-wellspring/190709assignment) ##
 Due: 7/9/19
 
 The original visualization for this data was a bit hard to understand due to the colors chosen and the truncated bar for the largest data point. Feel free to compare my redo with the source from [the Economist](https://www.economist.com/britain/2016/08/13/the-metamorphosis)
