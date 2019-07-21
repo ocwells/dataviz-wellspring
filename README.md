@@ -9,6 +9,7 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 # Online Portfolio
 
+> [Final Project](/
 > [OECD Government Debt Visualization Part 1](/190723assignment.md)
 
 > [OECD Government Debt Visualization Part 2: Beeswarm](/190723assignment2.md)
