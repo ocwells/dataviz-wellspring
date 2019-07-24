@@ -11,5 +11,6 @@ My final project will look at the pedestrian traffic flow on Forbes Avenue. Forb
 
 My data was collected from 7/15 - 7/18/19 by my teenage son. He positioned himself on the second floor of the Tepper Business School building on Carnegie Mellon's campus. He observed Forbes Avenue pedestrian traffic from 11:30 am to 1:30 pm each day in a section where the traffic calming measures had been implemented. I will record the data from his data collection sheets in an Excel spreadsheet and conduct analysis on the flow of pedestrians. I will post this dataset within the repository for ease of access.
 
+[Image of data collection instrument](/20190723_211756.jpg)
 
 # Method and Medium #
