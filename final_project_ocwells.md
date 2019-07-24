@@ -6,7 +6,7 @@ My final project will look at the pedestrian traffic flow on Forbes Avenue. Forb
 
 # Sketches #
 
-[Image of traffic flow map](/20190723_211811.jpg))
+[Image of traffic flow map](/20190723_211811.jpg)
 
 [Image of alluvial traffic flow diagram](/20190723_211824.jpg)
 
