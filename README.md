@@ -11,11 +11,7 @@ In this course, I expect to learn how to visualize data, which is something I ha
 
 > [Final Project](/final_project_ocwells.md)
 
-> [OECD Government Debt Visualization Part 1](/190723assignment.md)
-
-> [OECD Government Debt Visualization Part 2: Beeswarm](/190723assignment2.md)
-
-> [OECD Government Debt Visualization Part 3: Circle Packing](/190723assignment3.md)
+> [OECD Government Debt Visualizations](/190723assignment.md)
 
 > [Crisis at the Border Visualizations](/190716assignment.md)
 
