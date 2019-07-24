@@ -8,3 +8,5 @@ Due to pending changes to the European Union associated with Brexit, I wanted to
 <iframe src="https://data.oecd.org/chart/5CMX" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5CMX" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
 Source: OECD National Accounts Statistics: National Accounts at a Glance [GDP of UK compared to EU Countries](https://data.oecd.org/chart/5CMN)
+
+Reducing the graph down to the EU countries made it easier to read, and easier to compare the United Kingdom to other nations with an economic trade relationship. The use of red as the accent color for the UK datapoint is a subtle nod to the standard practice of noting debts as red in the accounting field. 
