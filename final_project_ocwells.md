@@ -36,4 +36,8 @@ My data was collected from 7/15 - 7/18/19 by my teenage son. He positioned himse
 
 # Method and Medium #
 
-I will use Shorthand to build my final project since it will help me think of it as a data story rather than a collection of charts and paragraphs. I will work over the next two weeks to analyse the raw data, conduct a brief literature review of traffic flow studies for inspiration, and make some decisions about how to visualize this information. I understand that further pedestrian-focused improvements to Forbes Avenue are planned, and I want my data story to engage the Oakland pedestrian community in a dialogue about the traffic calming measures, as it is clear from early review of the data that Forbes Avenue is a pathway for a larger community, rather than a road that separates Heinz College from Tepper. I will present to the class on the second to last day of class. 
+I will use Shorthand to build my final project since it will help me think of it as a data story rather than a collection of charts and paragraphs. Over the next two weeks I will analyse the raw data, conduct a brief literature review of traffic flow studies and incorporate them into my data story. I understand that further pedestrian-focused improvements to Forbes Avenue are planned, and I want my data story to engage the Campus Design and Facilities Development office in a dialogue about pedestrian safety. 
+
+# Wireframe #
+
+
