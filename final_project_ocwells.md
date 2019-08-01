@@ -2,7 +2,7 @@
 
 # Description #
 
-My final project will look at the pedestrian traffic flow on Forbes Avenue. Forbes Avenue was recently restriped, a city bus stop was removed, and two pedestrian crosswalks were installed. This has calmed the flow of vehicular traffic and provided a safer environment for pedestrians near the Carnegie Mellon campus. I recently heard that an additional improvement has been proposed, which is to remove a staircase in front of Hamburg Hall to dissuade pedestrians from crossing Forbes Avenue against traffic, a potential safety concern. I am curious as to how often pedestrians continue to cross against traffic with these traffic calming measures in place.  
+My final project will look at the pedestrian traffic flow on Forbes Avenue. Forbes Avenue was recently put on a road diet, a traffic calming strategy that was documented in the 2015 Carnegie Mellon University Institutional Master Plan. Improvements that have been implemented recently include: a city bus stop was removed, two pedestrian crosswalks were installed, and the road markings were repainted. This has calmed the flow of vehicular traffic and provided a safer environment for pedestrians near the Carnegie Mellon campus. An additional improvement is underway, which is to remove a staircase in front of Hamburg Hall. All of these changes are intended to dissuade pedestrians from crossing Forbes Avenue against traffic, a potential safety concern. I am curious as to how often pedestrians continue to cross against traffic with these traffic calming measures in place.  
 
 # Sketches #
 
@@ -50,7 +50,7 @@ Please answer following questions based on your experiences as a pedestrian.
 
 Have you noticed the new striping and crosswalks on Forbes Avenue?
 Yes/No 
-# Yes * 3 #
+* Yes 3x
 
 Questions about using Forbes Avenue:
 
@@ -65,7 +65,7 @@ Questions about using Forbes Avenue:
 *	Better, but it could still use more traffic-calming features because drivers naturally increase speed on long straightaways and speed to avoid yellows.
 
 3.	How safe do you feel when crossing Forbes Avenue? (1-5, 5 being the most fearful) 
-# 2, 2, 3 #
+* 2, 2, 3
 
 4.	How often do you think you jaywalk? 
 a.	Cross between crosswalks 
@@ -87,7 +87,7 @@ b.	Cross against the traffic signal
 *	Unimportant
 
 8.	What affiliation do you have with Carnegie Mellon, if any? 
-# Staff * 3 #
+* Staff 3x
 
 Thank you for taking the time to talk about the changes to Forbes Avenue. I’d like to show you what I’ve developed so far based on my observations of pedestrians on Forbes Avenue.
 
