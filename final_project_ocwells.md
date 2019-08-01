@@ -44,4 +44,60 @@ I will use Shorthand to build my final project since it will help me think of it
 
 # User Feedback #
 
+Hi there. I’m doing an informal study of the traffic on Forbes Avenue in front of Hamburg Hall and Tepper. Would you mind sharing what you think of the recent changes?
 
+Please answer following questions based on your experiences as a pedestrian.  
+
+Have you noticed the new striping and crosswalks on Forbes Avenue?
+Yes/No 
+# Yes * 3 #
+
+Questions about using Forbes Avenue:
+
+1.	What was it like for you before the road was restriped?
+*	More chaotic feeling; easier to find a crosswalk that times with my travel
+*	Ugly, dangerous, cars moving fast 
+*	Treacherous, especially when cyclists, pedestrians, and cars were all using the same spaces on weekdays.
+
+2.	What is it like now for you as a pedestrian?
+*	I spend less time waiting for a cross signal
+*	Much nicer experience, cars are farther from me on the side walk, and they seem to move slower.
+*	Better, but it could still use more traffic-calming features because drivers naturally increase speed on long straightaways and speed to avoid yellows.
+
+3.	How safe do you feel when crossing Forbes Avenue? (1-5, 5 being the most fearful) 
+# 2, 2, 3 #
+
+4.	How often do you think you jaywalk? 
+a.	Cross between crosswalks 
+*	Rarely – unless there are ZERO cars…which happens maybe 2 or 3 times a month
+*	all the time
+*	rarely
+b.	Cross against the traffic signal
+*	Rarely – unless there are ZERO cars…which happens maybe 2 or 3 times a month
+*	Rarely
+*	occasionally
+
+5.	What makes you decide to jaywalk?
+*	I only do it when there is no traffic and then it just seems silly to wait
+*	A break in traffic, in a hurry to get somewhere
+*	Long signal times during periods of low traffic.
+
+7.	How important do you think the pedestrian staircase is to access Hamburg Hall/Tepper?
+*	Not that important since I’m usually coming from one end or the other, so I enter the driveway. It would be great if there was something pedestrian-friendly in the driveway instead (or is there already? I can’t recall…)
+*	Unimportant
+
+8.	What affiliation do you have with Carnegie Mellon, if any? 
+# Staff * 3 #
+
+Thank you for taking the time to talk about the changes to Forbes Avenue. I’d like to show you what I’ve developed so far based on my observations of pedestrians on Forbes Avenue.
+
+What do you think are the most important things to communicate with these graphics?
+*	The incidence of jaywalking – had no idea it was so common
+*	That the road markings are confusing and weird
+*	That the crosswalk timing is too slow
+
+Things you wish were different:
+*	Labels on the Origin - Destination graphic are not clear
+*	Not a compelling Call to Action
+*	Needs a picture of the study area
+*	Staircase info not interesting, and they took it out today
