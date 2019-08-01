@@ -40,4 +40,8 @@ I will use Shorthand to build my final project since it will help me think of it
 
 # Wireframe #
 
+[image of wireframe](/wireframe.pdf)
+
+# User Feedback #
+
 
