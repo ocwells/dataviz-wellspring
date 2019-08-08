@@ -104,11 +104,8 @@ Things you wish were different:
 
 # Shorthand Story #
 
-Link:
-[Shorthand story](https://embed.shorthand.com/embed_6.js")
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h3>
-Forbes Ave Traffic flow</h3><p>With proper crosswalks, do we still jaywalk?</p></div>
+[Shorthand story](https://carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/index.html)
 
-The audience for my story is Campus Design and Facilities Development. I have a meeting scheduled with Bob Reppe to discuss my findings and learn more about the continuing traffic calming project. Campus Design is responsible for implementing the university's institutional master plan and has expressed an interest in my study, particularly as it relates to observed behavior resulting from their intervention.
+The audience for my story is Carnegie Mellon University's Campus Design and Facilities Development. I have a meeting scheduled with Bob Reppe to discuss my findings and learn more about the continuing traffic calming project. Campus Design is responsible for implementing the university's institutional master plan and has expressed an interest in my study, particularly as it relates to observed behavior resulting from their intervention.
 
 As a result of the feedback I received from my colleagues and Dr. Goranson, I have refined my data story to focus more directly on jaywalking behavior and what the incidence of it says about the road diet modifications. This narrowed my focus a bit more than I expected initially, but I am very pleased with the concision of my story and believe it will have an impact on Campus Design and other decision makers.
