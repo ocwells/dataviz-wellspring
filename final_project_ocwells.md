@@ -102,9 +102,9 @@ Things you wish were different:
 *	Needs a picture of the study area
 *	Staircase info not interesting, and they took it out today
 
-** Shorthand Story **
+## Shorthand Story ##
 
-<script src="https://embed.shorthand.com/embed_6.js"></script>
+script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h1>
 Forbes Ave Traffic flow</h1><p>With proper crosswalks, do we still jaywalk?</p></div>
 
