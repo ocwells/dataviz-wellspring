@@ -105,7 +105,7 @@ Things you wish were different:
 # Shorthand Story #
 
 Link:
-script src="https://embed.shorthand.com/embed_6.js"></script>
+[Shorthand story](https://embed.shorthand.com/embed_6.js")
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h3>
 Forbes Ave Traffic flow</h3><p>With proper crosswalks, do we still jaywalk?</p></div>
 
