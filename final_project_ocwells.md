@@ -101,3 +101,13 @@ Things you wish were different:
 *	Not a compelling Call to Action
 *	Needs a picture of the study area
 *	Staircase info not interesting, and they took it out today
+
+** Shorthand Story **
+
+<script src="https://embed.shorthand.com/embed_6.js"></script>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h1>
+Forbes Ave Traffic flow</h1><p>With proper crosswalks, do we still jaywalk?</p></div>
+
+The audience for my story is Campus Design and Facilities Development. I have a meeting scheduled with Bob Reppe to discuss my findings and learn more about the continuing traffic calming project. Campus Design is responsible for implementing the university's institutional master plan and has expressed an interest in my study, particularly as it relates to observed behavior resulting from their intervention.
+
+As a result of the feedback I received from my colleagues and Dr. Goranson, I have refined my data story to focus more directly on jaywalking behavior and what the incidence of it says about the road diet modifications. This narrowed my focus a bit more than I expected initially, but I am very pleased with the concision of my story and believe it will have an impact on Campus Design and other decision makers.
