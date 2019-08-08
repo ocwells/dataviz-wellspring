@@ -102,11 +102,12 @@ Things you wish were different:
 *	Needs a picture of the study area
 *	Staircase info not interesting, and they took it out today
 
-## Shorthand Story ##
+# Shorthand Story #
 
+Link:
 script src="https://embed.shorthand.com/embed_6.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h1>
-Forbes Ave Traffic flow</h1><p>With proper crosswalks, do we still jaywalk?</p></div>
+<div data-shorthand-embed="carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/"><h3>
+Forbes Ave Traffic flow</h3><p>With proper crosswalks, do we still jaywalk?</p></div>
 
 The audience for my story is Campus Design and Facilities Development. I have a meeting scheduled with Bob Reppe to discuss my findings and learn more about the continuing traffic calming project. Campus Design is responsible for implementing the university's institutional master plan and has expressed an interest in my study, particularly as it relates to observed behavior resulting from their intervention.
 
