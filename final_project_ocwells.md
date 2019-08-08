@@ -104,7 +104,7 @@ Things you wish were different:
 
 # Shorthand Story #
 
-[Shorthand story](https://carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/index.html)
+[Forbes Avenue Pedestrians](https://carnegiemellon.shorthandstories.com/forbes_ave_pedestrians/index.html)
 
 The audience for my story is Carnegie Mellon University's Campus Design and Facilities Development. I have a meeting scheduled with Bob Reppe to discuss my findings and learn more about the continuing traffic calming project. Campus Design is responsible for implementing the university's institutional master plan and has expressed an interest in my study, particularly as it relates to observed behavior resulting from their intervention.
 
